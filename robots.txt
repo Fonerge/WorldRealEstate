@@ -1,0 +1,18 @@
+User-Agent: Yandex
+
+Disallow: /php
+
+Disallow: /phpmailer
+
+Disallow: /admin
+Allow: /
+
+
+User-Agent: Googlebot
+
+Disallow: /php
+
+Disallow: /phpmailer
+
+Disallow: /admin
+Allow: /
